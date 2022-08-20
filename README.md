@@ -1,12 +1,18 @@
-# CPython
-CPython learing team
+# CPythonlearing
+
+### 学习小组
+
+| 成员       | 学校 |  职责 | 
+| :---------、 | :-- |  :-- | 
+|Yeshiqi | 厦门大学 | 指导	 | 
+|范小龙	| 厦门大学	|分享 | 
 
 
 
 ### 学习内容
 
-推文来源：【[古明地觉的编程教室, 源码探秘 CPython系列](https://mp.weixin.qq.com/s/QI7r06jxj-00vyW0zB8-RQ)】
-书：《High Performance Python》
+- 推文来源：【[古明地觉的编程教室, 源码探秘 CPython系列](https://mp.weixin.qq.com/s/QI7r06jxj-00vyW0zB8-RQ)】
+- 书：《High Performance Python》
 
 
 | 序号       | 内容 |  分享者 | 
