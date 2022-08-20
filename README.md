@@ -18,6 +18,7 @@
 
 - [B 站视频记录](https://www.bilibili.com/video/BV1AU4y1y7Cn?p=1&vd_source=d10c9e3e0c25d9d45ae2250bdc0d6d69)
 
+**Ref:**
 - 推文来源：【[古明地觉的编程教室, 源码探秘 CPython系列](https://mp.weixin.qq.com/s/QI7r06jxj-00vyW0zB8-RQ)】
 - 书：《High Performance Python》
 
