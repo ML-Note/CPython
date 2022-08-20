@@ -1,6 +1,14 @@
 # CPython
 CPython learing team
 
+
+
+### 学习内容
+
+推文来源：【[古明地觉的编程教室, 源码探秘 CPython系列](https://mp.weixin.qq.com/s/QI7r06jxj-00vyW0zB8-RQ)】
+书：《High Performance Python》
+
+
 | 序号       | 内容 |  分享者 | 
 | :--------- | :-- |  :-- | 
 |1	|Pythonnic & 如何 使用Pycharm来Debug | 	范小龙 | 
